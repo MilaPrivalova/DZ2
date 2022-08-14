@@ -1,4 +1,4 @@
-﻿Console.Write("Введите число");
+﻿Console.Write("Введите любое число");
 int number = int.Parse(Console.ReadLine());
 
 if (number > 100)
