@@ -3,9 +3,9 @@ int num = int.Parse(Console.ReadLine());
 
 if (num == 6 || num == 7)
 {
-    Console.WriteLine($"{num} выходной");
+    Console.WriteLine($"{num} Выходной");
 }
 else
 {
-    Console.WriteLine($"{num} рабочий день");
+    Console.WriteLine($"{num} Рабочий день");
 }
