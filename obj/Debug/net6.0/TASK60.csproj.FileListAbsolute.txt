@@ -1,0 +1,15 @@
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\bin\Debug\net6.0\TASK60.exe
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\bin\Debug\net6.0\TASK60.deps.json
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\bin\Debug\net6.0\TASK60.runtimeconfig.json
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\bin\Debug\net6.0\TASK60.dll
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\bin\Debug\net6.0\TASK60.pdb
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.csproj.AssemblyReference.cache
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.AssemblyInfoInputs.cache
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.AssemblyInfo.cs
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.dll
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\refint\TASK60.dll
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.pdb
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\TASK60.genruntimeconfig.cache
+C:\Users\LENOVO-PC\Desktop\work2\TASK60\obj\Debug\net6.0\ref\TASK60.dll
